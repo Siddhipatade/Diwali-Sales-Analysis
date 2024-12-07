@@ -7,7 +7,7 @@ This project analyzes Diwali sales data to uncover valuable insights about custo
 The goal is to assist businesses in optimizing marketing strategies and improving sales during the festive season.
 
 
-## Objectives
+## Objective
 
 * Identify key trends in customer demographics and purchase patterns.
 * Understand the performance of product categories during the Diwali season.
